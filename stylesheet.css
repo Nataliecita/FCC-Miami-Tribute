@@ -1,3 +1,7 @@
-h2 {
+body {
+  background-color: #F0E4DD;
+}
+
+.navbar-brand, h3 {
   font-family: Lobster, Monospace;
 }
