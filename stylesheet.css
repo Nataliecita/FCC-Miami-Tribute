@@ -2,7 +2,7 @@ body {
   background-color: #F0E4DD;
 }
 
-.navbar-brand, h3 {
+.navbar-brand, h1 {
   font-family: Lobster, Monospace;
 }
 
@@ -13,5 +13,9 @@ body {
 img {
     width:100%;
     height:auto;
-    padding: 80px 250px;
+    padding: 20px 80px;
+}
+
+.year {
+  font-weight: bold;
 }
