@@ -1,19 +1,29 @@
+html{
+  background-color: green;
+}
 body {
+  padding: 50px;
   background-color: #F0E4DD;
 }
+
 
 .navbar-brand, h1 {
   font-family: Lobster, Monospace;
 }
 
-.main-text {
+.main-content {
+  border: 1px solid black;
 
 }
+
+/*.image{
+  margin: 20px;
+}*/
 
 img {
     width:100%;
     height:auto;
-    padding: 20px 80px;
+    padding: 30px;
 }
 
 .year {
