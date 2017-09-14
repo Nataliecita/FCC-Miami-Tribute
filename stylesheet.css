@@ -1,9 +1,10 @@
 html{
   background-color: green;
 }
+
 body {
   padding: 50px;
-  background-color: #F0E4DD;
+  background-color: #F6E4F6;
 }
 
 
@@ -13,6 +14,7 @@ body {
 
 .main-content {
   border: 1px solid black;
+  background-color: #F4F4F4;
 
 }
 
