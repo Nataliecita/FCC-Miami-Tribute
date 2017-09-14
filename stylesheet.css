@@ -5,3 +5,13 @@ body {
 .navbar-brand, h3 {
   font-family: Lobster, Monospace;
 }
+
+.main-text {
+
+}
+
+img {
+    width:100%;
+    height:auto;
+    padding: 80px 250px;
+}
