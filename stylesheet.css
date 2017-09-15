@@ -1,33 +1,46 @@
-html{
-  background-color: green;
-}
-
 body {
   padding: 50px;
   background-color: #F6E4F6;
 }
 
+h1 {
+  font-size: 3.5em;
+}
 
-.navbar-brand, h1 {
-  font-family: Lobster, Monospace;
+h1, h6, h3 {
+  font-family: 'Bree Serif', serif;
+}
+
+.subtitle {
+  font-style: italic;
 }
 
 .main-content {
-  border: 1px solid black;
-  background-color: #F4F4F4;
-
+  border-radius: 15px;
+  background-color: white;
 }
 
-/*.image{
-  margin: 20px;
-}*/
+
 
 img {
     width:100%;
     height:auto;
-    padding: 30px;
+    margin-bottom: 15px;
+}
+
+.image {
+  /*padding-top: 15px;*/
+  padding-bottom: 15px;
 }
 
 .year {
   font-weight: bold;
+}
+
+.timeline {
+  margin: 10px;
+}
+
+#ediepage {
+  padding-top: 20px;
 }
