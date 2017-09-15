@@ -17,22 +17,26 @@ h1 {
 }
 
 .main-content {
-  /*border: 1px solid black;*/
   border-radius: 15px;
   background-color: white;
-
 }
 
-/*.image{
-  margin: 20px;
-}*/
+
 
 img {
     width:100%;
     height:auto;
-    padding: 0 30px;
-    /*border-radius: 7%;*/
-    /*background-color: #F5CCE8;*/
+    /*padding: 0 5px;*/
+    border-bottom: 5px;
+    border-style: solid;
+    border-width: thin;   margin-bottom: 15px;
+    border-radius: 5%;
+}
+
+.image {
+  /*padding-top: 15px;*/
+  padding-bottom: 15px;
+  /*background-color: #F6E4F6;*/
 }
 
 .year {
