@@ -11,12 +11,16 @@ h1 {
   font-size: 3.5em;
 }
 
-.navbar-brand, h1 {
+.navbar-brand, h1, h5, h3 {
   font-family: Lobster, Monospace;
 }
 
+.subtitle {
+  font-style: italic;
+}
+
 .main-content {
-  border: 1px solid black;
+  /*border: 1px solid black;*/
   border-radius: 15px;
   background-color: #F4F4F4;
 
@@ -30,7 +34,7 @@ img {
     width:100%;
     height:auto;
     padding: 30px;
-    border-radius: 5%;
+    border-radius: 7%;
 }
 
 .year {
