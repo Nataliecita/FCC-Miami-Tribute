@@ -7,7 +7,7 @@ h1 {
   font-size: 3.5em;
 }
 
-.navbar-brand, h1, h6, h3 {
+h1, h6, h3 {
   font-family: 'Bree Serif', serif;
   /*font-family: 'Raleway', sans-serif;*/
 }
@@ -26,32 +26,18 @@ h1 {
 img {
     width:100%;
     height:auto;
-    /*padding: 0 5px;*/
-    border-bottom: 5px;
-    border-style: solid;
-    border-width: thin;   margin-bottom: 15px;
-    border-radius: 5%;
+    margin-bottom: 15px;
 }
 
 .image {
   /*padding-top: 15px;*/
   padding-bottom: 15px;
-  /*background-color: #F6E4F6;*/
 }
 
 .year {
   font-weight: bold;
 }
 
-.navbar-custom {
-  background-color: #EEB1D5;
-}
-
-.navbar-custom .navbar-nav > li > a {
-    color:#fff;
-}
-
-.navbar-custom .navbar-nav > .active > a {
-    color: #ffffff;
-    background-color:transparent;
+.timeline {
+  margin: 10px;
 }
